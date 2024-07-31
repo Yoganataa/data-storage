@@ -1,11 +1,14 @@
 {
-    "data": {
-      "uniquekey1": "ektakey209732g3bv4il2h3lk65457jnl1",
-      "uniquekey2": "ektakey289032g3bvgf2l2h3lk6545d3nl1"
+    "xkeys": {
+        "xkey1": "ektakey5t9zfyxxhi81vmk3yf69g43h9",
+        "xkey2": "ektakeybfaogmuv067jesz7t0k5utofs"
     },
-    "settings": {
-      "basickey1": "ektakey209732g3bv4il2h3lk65457jnl1",
-      "basickey2": "ektakey289032g3bvgf2l2h3lk6545d3nl1"
+    "ykeys": {
+        "ykey1": "ektakey5t9zfyxxhi81vmk3yf69g43h9",
+        "ykey2": "ektakeybfaogmuv067jesz7t0k5utofs"
+    },
+    "zkeys": {
+        "zkey1": "0xekksls",
+        "zkey2": "j7kzqdih"
     }
-  }
-  
+}
